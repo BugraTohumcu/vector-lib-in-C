@@ -13,6 +13,7 @@ typedef struct
 
 void resize(vector *v);
 void append(vector *v, int value);
+void appendArr(vector *v, int* arr);
 vector* initVector();
 void printVector(vector *v);
 void reserve(vector* v, size_t size);
