@@ -12,7 +12,7 @@ Includes memory management, dynamic resizing, and a small benchmark to measure p
 - `reserve()` to pre-allocate memory and speed up multiple inserts  
 - `fillVec()` to populate the vector easily  
 - `printVector()` for simple display  
-- Memory-safe with `calloc()` and `realloc()`
+- Memory-safe with `calloc()`
 
 ---
 
